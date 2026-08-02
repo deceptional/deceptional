@@ -1,9 +1,9 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=WlLD-CARD&label=🜲&color=8c410f)
+![](https://komarev.com/ghpvc/?username=WlLD-CARD&label=☠︎︎&color=orange)
 
-<img width="734" height="417" alt="IMG_9019" src="https://github.com/user-attachments/assets/75753590-c4e8-4ea5-8f10-a419360b5d3e" />
 
+<img width="736" height="1030" alt="IMG_9652" src="https://github.com/user-attachments/assets/52536a1d-d9d8-495e-a3a9-e7f3cc9ace80" />
 
 
 
